@@ -71,7 +71,7 @@
 <br/>-->
 
 <div align="center">
-<a href='https://drive.google.com/file/d/1G-LfuuSsCuYzgcKt1z1Fqg42lfh_9wrp/view?usp=drive_link' target='_blank'><img src='https://drive.google.com/file/d/15Ws5dYpxi8zySRkHeamMkwdETtEPXqeZ/view?usp=drive_link' border='0' alt='Download my resume' /></a>
+<a href='https://drive.google.com/file/d/1G-LfuuSsCuYzgcKt1z1Fqg42lfh_9wrp/view?usp=drive_link' target='_blank'><img src='Download My CV.png' border='0' alt='Download my resume' /></a>
 </div>
 
 
