@@ -10,13 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Mini Project**
+ 🔭 I’m currently working on **my Mini Project** 
  
- 🌱 I’m currently learning **Data Analytics,UI/UX Designing, Data Structure**
+ ✅ Done several projects on **Web development, Data Visualization** and **Machine Learning**
+ 
+ 🌱 I’m currently learning **Data Structure**,**React js** and **Node js**
 
-💬 Ask me about **Digital Marketing(SEO), Data Science and Web Development... or anything [here](https://github.com/SagarBokade/SagarBokade/issues)**
+💬 Ask me about **Web Development,Digital Marketing(SEO),  and Data Science... or anything [here](https://github.com/SagarBokade/SagarBokade/issues)**
 
-⚡ Fun fact **IRON MAN aka Tony Stark developed my interest towards Machine Learning Engineering**
+⚡ Fun fact **IRON MAN aka Tony Stark developed my interest towards Engineering**
 
  </div>
  
