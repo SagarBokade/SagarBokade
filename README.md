@@ -15,6 +15,8 @@
  ✅ Done several projects on **Web development, Data Visualization** and **Machine Learning**
 
  🏆 Team selected for SIH (Smart India Hackathon) nodal level & Runner up in Paper presentation held by IETE committee. 
+
+ 🚀 Done Internship in the domain of Data Visualization using PowerBi & Multiple Virtual internship in the domain like Python & ML
  
  🌱 I’m currently learning **Data Structure**,**React js** and **Node js**
 
