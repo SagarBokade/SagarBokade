@@ -13,6 +13,8 @@
  🔭 I’m currently working on **my Mini Project** 
  
  ✅ Done several projects on **Web development, Data Visualization** and **Machine Learning**
+
+ 🏆 Team selected for SIH (Smart India Hackathon) nodal level & Runner up in Paper presentation held by IETE committee. 
  
  🌱 I’m currently learning **Data Structure**,**React js** and **Node js**
 
