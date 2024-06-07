@@ -36,6 +36,9 @@
   <a href="https://leetcode.com/Sagar_Bokade/" target="_blank">
      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /> 
   </a>
+  <a href="https://x.com/sagarnbokade/" target="_blank"t>
+    <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=X&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
