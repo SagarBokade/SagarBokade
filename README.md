@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **my Mini Project** 
+ 🔭 I’m currently working on **my Major Project** 
  
  ✅ Done several projects on **Web development, Data Visualization** and **Machine Learning**
 
