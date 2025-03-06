@@ -80,7 +80,7 @@
 <br/>-->
 
 <div align="center">
-<a href='https://drive.google.com/file/d/1CUONr3LefU4LJ_CdwzXZsnsD-Vs3oMd5/view?usp=drive_link' target='_blank'><img src='Download My CV (1).png' border='0' alt='Download my resume' /></a>
+<a href='https://drive.google.com/file/d/1EeCxksxTsS-1_wJYXQsVVUGPwXGL3nE0/view?usp=sharing' target='_blank'><img src='Download My CV (1).png' border='0' alt='Download my resume' /></a>
 </div>
 
 
